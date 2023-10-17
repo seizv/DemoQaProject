@@ -9,7 +9,7 @@
         <version>${project.version}</version>
     </parent>
 
-    <artifactId>webElements</artifactId>
+    <artifactId>web-elements</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
