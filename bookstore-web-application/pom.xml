@@ -9,7 +9,7 @@
         <version>${project.version}</version>
     </parent>
 
-    <artifactId>bookStoreWebApplication</artifactId>
+    <artifactId>bookstore-web-application</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

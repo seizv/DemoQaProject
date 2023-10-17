@@ -11,9 +11,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>webElements</module>
-        <module>bookStoreApi</module>
-        <module>bookStoreWebApplication</module>
+        <module>web-elements</module>
+        <module>bookstore-api</module>
+        <module>bookstore-web-application</module>
     </modules>
 
     <properties>
